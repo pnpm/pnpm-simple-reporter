@@ -1,10 +1,10 @@
 {
-  "name": "pnpm-reporter-simple",
+  "name": "pnpm-simple-reporter",
   "version": "0.0.0",
   "description": "A simple reporter for pnpm",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
-  "bin": "lib/bin/pnpm-reporter-simple.js",
+  "bin": "lib/bin/pnpm-simple-reporter.js",
   "files": [
     "lib"
   ],

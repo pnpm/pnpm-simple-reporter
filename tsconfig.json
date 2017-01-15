@@ -22,7 +22,7 @@
     "rewriteTsconfig": true
   },
   "files": [
-    "src/bin/pnpm-reporter-simple.ts",
+    "src/bin/pnpm-simple-reporter.ts",
     "src/index.ts",
     "typings/local.d.ts"
   ]
